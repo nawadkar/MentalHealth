@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../ML-Mini-Project/.idea/ML-Mini-Project.iml" filepath="$PROJECT_DIR$/../ML-Mini-Project/.idea/ML-Mini-Project.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/MentalHealth.iml" filepath="$PROJECT_DIR$/.idea/MentalHealth.iml" />
     </modules>
   </component>
